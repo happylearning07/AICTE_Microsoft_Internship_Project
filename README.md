@@ -21,7 +21,7 @@ I built a custom grid-based **farming environment** where:
 
 ## 🔧 Technologies Used
 
-- **Python 3.x**
+- **Python 3**
 - **NumPy** – for Q-table and math operations
 - **Matplotlib** – to visualize training performance
 - **Random** – for stochastic action selection

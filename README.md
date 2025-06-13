@@ -12,7 +12,7 @@ Traditional farming involves many manual decisions like when and where to plant,
 
 ## 💡 Proposed Solution
 
-We built a custom grid-based **farming environment** where:
+I built a custom grid-based **farming environment** where:
 - Each cell can be in one of three states: `empty`, `planted`, or `ready`.
 - An agent interacts with this environment using the actions: `'plant'`, `'water'`, and `'harvest'`.
 - The agent is trained using **tabular Q-learning** to learn optimal farming strategies over time.
